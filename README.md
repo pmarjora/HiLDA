@@ -6,9 +6,9 @@
 ## Introduction
 
 The R package `HiLDA` is developed under the Bayesian framework to allow 
-statistically testing whether there is a change in the mutation burdens of 
+statistically testing of whether there is a change in the mutation burdens of 
 mutation signatures between two groups. The mutation signature is defined based 
-on the independent model proposed by Shiraishi's et al. 
+on the independent model proposed by Shiraishi et al. 
 
 ## Paper
 
@@ -16,7 +16,7 @@ on the independent model proposed by Shiraishi's et al.
 
 ## Installation 
 
-Now you can download the pacakge from Bioconductor https://bioconductor.org/packages/devel/bioc/html/HiLDA.html
+You can download the pacakge from Bioconductor https://bioconductor.org/packages/devel/bioc/html/HiLDA.html
 
 ```
 if (!requireNamespace("BiocManager", quietly = TRUE))
